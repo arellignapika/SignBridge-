@@ -1,0 +1,7 @@
+pip install tensorflow
+pip install numpy
+pip install Pillow
+pip install opencv-python
+pip install glob2
+pip install pickle-mixin
+
