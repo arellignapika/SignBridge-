@@ -7,21 +7,6 @@ This project aims to build a Convolutional Neural Network (CNN) to recognize Ame
 ## Dataset
 The dataset used in this project is sourced from Kaggle and contains images for each letter of the ASL alphabet. The training and testing images are organized in separate directories, with the training images further sorted into subdirectories by label.
 
-## Getting Started
-
-### Prerequisites
-Ensure you have Python 3.x installed on your system. The following libraries are required:
-- TensorFlow
-- Keras
-- NumPy
-- Pillow
-- OpenCV
-- Glob
-- Pickle
-
-### Installation
-Install the required packages using pip. Run the following command: pip install -r requirements.txt
-
 ## Model Architecture
 The model architecture is Sequential and utilizes various layers:
 
